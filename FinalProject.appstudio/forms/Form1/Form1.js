@@ -1,3 +1,0 @@
-console.log("hello world")
-console.log("hello universe")
-console.log("planet")
