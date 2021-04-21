@@ -31,8 +31,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "Home",
-            "Home.json"
           ]
         }
       ],
