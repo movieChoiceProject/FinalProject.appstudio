@@ -16,13 +16,31 @@
         "forms",
         "GenreSelect",
         "Elements",
+        "lblMovies.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "GenreSelect",
+        "Elements",
+        "btnLoginPage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "GenreSelect",
+        "Elements",
         "selGenre.json"
       ]
     }
   ],
   "class": "",
-  "designHeight": 0,
-  "designWidth": 0,
+  "designHeight": 460,
+  "designWidth": 320,
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
@@ -34,7 +52,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "GenreSelect.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
